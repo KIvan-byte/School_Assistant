@@ -22,6 +22,10 @@ School Assistant is a Python-based reference application designed for students i
 2. The app displays relevant definitions or historical events.
 3. If local results are unavailable, the app retrieves data from Wikipedia.
 
+## Example of work
+
+<img src="./images/example.gif" alt="Example of work" width="250">
+
 ## Installation
 
 Clone the repository and run the application in your Python environment. Make sure to install the required dependencies.
