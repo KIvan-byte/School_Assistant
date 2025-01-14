@@ -24,7 +24,7 @@ School Assistant is a Python-based reference application designed for students i
 
 ## Example of work
 
-<img src="./images/example.gif" alt="Example of work" width="250">
+<img src="res/example.gif" alt="Example of work" width="250">
 
 ## Installation
 
